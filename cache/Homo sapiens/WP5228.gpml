@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Arsenic Liver Toxicity AOP" Version="20220425" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">This is an adverse outcome pathway of arsenic toxicity on liver including key processes leading to arsenic induced liver cancer. </Comment>
+  <Graphics BoardWidth="861.6597403506607" BoardHeight="1074.313146233391" />
+  <DataNode TextLabel="DNA damage response" GraphId="a020e" Type="Pathway">
+    <Graphics CenterX="595.659755653059" CenterY="768.7972715726323" Width="244.1412315930388" Height="55.38621151271741" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP707" />
+  </DataNode>
+  <DataNode TextLabel="NRF2 pathway" GraphId="a58c4" Type="Pathway">
+    <Graphics CenterX="595.659755653059" CenterY="450.0265878877404" Width="171.5" Height="38.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP2884" />
+  </DataNode>
+  <DataNode TextLabel="KE1487:Binding, Thiol/seleno-proteins involved in protection against oxidative stress" GraphId="a69b3">
+    <Graphics CenterX="595.6597556530589" CenterY="113.69444444444443" Width="472.0" Height="46.5" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1487" />
+  </DataNode>
+  <DataNode TextLabel="KE1940: Up-regulation of Reactive Oxygen Species" GraphId="b7cac">
+    <Graphics CenterX="595.659755653059" CenterY="264.12474123081097" Width="297.26890756302504" Height="50.92016806722648" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1940" />
+  </DataNode>
+  <DataNode TextLabel="KE1969: Increase, Oxidative Stress" GraphId="bd144">
+    <Graphics CenterX="595.659755653059" CenterY="406.9768591846455" Width="217.568297393404" Height="48.5" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1969" />
+  </DataNode>
+  <DataNode TextLabel="KE716: Increase, cell proliferation (hepatocytes)" GraphId="c9431">
+    <Graphics CenterX="595.659755653059" CenterY="886.0129246676444" Width="295.92097488921854" Height="56.62998522895162" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="716" />
+  </DataNode>
+  <DataNode TextLabel="Arsenic carcinogenesis - reactive oxygen species" GraphId="dc9b3" Type="Pathway">
+    <Graphics CenterX="595.6597556530589" CenterY="164.09259259259258" Width="308.66420331131155" Height="51.5" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP5230" />
+  </DataNode>
+  <DataNode TextLabel="TNF-alpha signaling pathway" GraphId="dd28e" Type="Pathway">
+    <Graphics CenterX="595.6597556530589" CenterY="604.7062840037165" Width="242.80254350736323" Height="52.7088353413651" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP231" />
+  </DataNode>
+  <DataNode TextLabel="Cell cycle" GraphId="ddd32" Type="Pathway">
+    <Graphics CenterX="595.659755653059" CenterY="935.015433966293" Width="153.1104417670681" Height="39.32195448460493" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP179" />
+  </DataNode>
+  <DataNode TextLabel="KE1395: Liver Cancer" GraphId="e4ca0">
+    <Graphics CenterX="595.659755653059" CenterY="1017.4752584933616" Width="247.1765140324987" Height="53.67577548005904" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1395" />
+  </DataNode>
+  <DataNode TextLabel="KE1194: Increase, DNA damage" GraphId="e88fb">
+    <Graphics CenterX="595.6597556530589" CenterY="713.508627842678" Width="363.2844712182059" Height="58.06358768406972" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1194" />
+  </DataNode>
+  <DataNode TextLabel="Oxidative damage response" GraphId="e91cd" Type="Pathway">
+    <Graphics CenterX="595.6597556530589" CenterY="315.5303145949974" Width="218.5" Height="54.5" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP3941" />
+  </DataNode>
+  <DataNode TextLabel="KE1894: Chronic low grade systemic inflammation" GraphId="fdf5b">
+    <Graphics CenterX="595.6597556530592" CenterY="549.1830653046655" Width="411.47724230254335" Height="52.7088353413651" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1894" />
+  </DataNode>
+  <Interaction GraphId="id1c575b66">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.659755653059" Y="914.3279172821201" GraphRef="c9431" RelX="0.0" RelY="1.0" />
+      <Point X="595.659755653059" Y="915.3544567239906" GraphRef="ddd32" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id34fc3c9b">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.6597556530589" Y="742.5404216847129" GraphRef="e88fb" RelX="0.0" RelY="1.0" />
+      <Point X="595.659755653059" Y="741.1041658162736" GraphRef="a020e" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id521a4454">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.6597556530589" Y="289.5848252644242" GraphRef="b7cac" RelX="0.0" RelY="1.0" />
+      <Point X="595.6597556530589" Y="288.2803145949974" GraphRef="e91cd" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id53c69955">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.6597556530589" Y="289.5848252644242" GraphRef="b7cac" RelX="0.0" RelY="1.0" />
+      <Point X="595.659755653059" Y="382.7268591846455" GraphRef="bd144" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id740cee21">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.6597556530592" Y="575.5374829753481" GraphRef="fdf5b" RelX="0.0" RelY="1.0" />
+      <Point X="595.6597556530589" Y="578.351866333034" GraphRef="dd28e" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id79fe3da0">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.659755653059" Y="431.2268591846455" GraphRef="bd144" RelX="0.0" RelY="1.0" />
+      <Point X="595.6597556530592" Y="522.828647633983" GraphRef="fdf5b" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id9e57c941">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.659755653059" Y="914.3279172821201" GraphRef="c9431" RelX="0.0" RelY="1.0" />
+      <Point X="595.6597556530589" Y="990.6373707533321" GraphRef="e4ca0" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idb5b59e94">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.6597556530589" Y="742.5404216847129" GraphRef="e88fb" RelX="0.0" RelY="1.0" />
+      <Point X="595.659755653059" Y="857.6979320531684" GraphRef="c9431" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idbf001471">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.659755653059" Y="469.0265878877404" GraphRef="a58c4" RelX="0.0" RelY="1.0" />
+      <Point X="595.659755653059" Y="431.2268591846455" GraphRef="bd144" RelX="0.0" RelY="1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idbf05e3c1">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.6597556530589" Y="136.94444444444443" GraphRef="a69b3" RelX="0.0" RelY="1.0" />
+      <Point X="595.6597556530589" Y="238.66465719719776" GraphRef="b7cac" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ide660b2ca">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.6597556530592" Y="575.5374829753481" GraphRef="fdf5b" RelX="0.0" RelY="1.0" />
+      <Point X="595.6597556530589" Y="684.4768340006432" GraphRef="e88fb" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ideaaebfdd">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="595.6597556530589" Y="136.94444444444443" GraphRef="a69b3" RelX="0.0" RelY="1.0" />
+      <Point X="595.6597556530589" Y="138.34259259259258" GraphRef="dc9b3" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax />
+</Pathway>

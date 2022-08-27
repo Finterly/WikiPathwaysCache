@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="The effect of thyroid hormone perturbation on brain development in an AOP" Version="20220426" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">Adverse Outcome Pathway for the effect of thyroid hormone disruption</Comment>
+  <Graphics BoardWidth="1192.4631603755204" BoardHeight="1677.7145949304688" />
+  <DataNode TextLabel="Thyroid hormone biosynthesis pathway&#xA;" GraphId="a0516" Type="Pathway">
+    <Graphics CenterX="144.61338661913973" CenterY="263.8643223726241" Width="249.57675906183272" Height="54.282482147087705" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE279: Thyroperoxidase inhibition " GraphId="d3522">
+    <Graphics CenterX="348.8701113389202" CenterY="107.23422959350388" Width="316.8930009814868" Height="71.09427353030765" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE424: NIS inhibition  " GraphId="d6ef6">
+    <Graphics CenterX="742.653783947326" CenterY="103.4075361677241" Width="285.9094831962641" Height="73.5473144481675" ZOrder="32769" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE277: Decrease thyroid hormone synthesis &#xA;" GraphId="fb9ed">
+    <Graphics CenterX="348.67554235624664" CenterY="389.075836802382" Width="294.9391647206137" Height="63.5716824043063" ZOrder="32771" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE425: Decrease of Thyroidal Iodide" GraphId="d5688">
+    <Graphics CenterX="744.4199986112259" CenterY="387.2268985797921" Width="258.00817341862125" Height="63.24838393068706" ZOrder="32773" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE281:Decreased T4 in serum" GraphId="a6f6c">
+    <Graphics CenterX="552.4097624124272" CenterY="566.4452820929366" Width="233.9559853792273" Height="58.94617050800434" ZOrder="32775" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE381:Reduced levels of BDNF " GraphId="d9cb2">
+    <Graphics CenterX="844.9223096843219" CenterY="737.4344323576211" Width="219.79549531255265" Height="44.47431211290609" ZOrder="32776" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Pathway" GraphId="c1d03" Type="Pathway">
+    <Graphics CenterX="845.170225722031" CenterY="773.1560835696737" Width="178.1198641147992" Height="26.422745964056958" ZOrder="32778" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE280:Decreased T4 in neuronal tissue  " GraphId="d8835">
+    <Graphics CenterX="302.25175920240133" CenterY="749.4038946424312" Width="238.89512471655993" Height="57.85638981961017" ZOrder="32779" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE756:Altered hippocampal gene expression  " GraphId="aa763">
+    <Graphics CenterX="300.3604205738605" CenterY="932.5545434282395" Width="264.4634438352522" Height="77.14334788642236" ZOrder="32781" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="CaMKK2 signaling pathway" GraphId="fc9d1" Type="Pathway">
+    <Graphics CenterX="299.6406401005274" CenterY="985.6335145534696" Width="172.92148103022055" Height="31.635432531220886" ZOrder="32782" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE851: Decreased GABAergic interneurons " GraphId="e7756">
+    <Graphics CenterX="846.5196704538032" CenterY="933.9842675673251" Width="262.6039022574232" Height="77.78869259146586" ZOrder="32783" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="GABA receptor signaling pathway" GraphId="bdde9" Type="Pathway">
+    <Graphics CenterX="850.6042882245376" CenterY="991.2459400754981" Width="223.39654231288543" Height="39.226340933816346" ZOrder="32784" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE757: Altered hippocampal anatomy   " GraphId="a9e02">
+    <Graphics CenterX="300.7868204336884" CenterY="1156.697784954966" Width="264.4634438352522" Height="77.14334788642236" ZOrder="32785" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE758: Altered hippocampal physiology " GraphId="ce549">
+    <Graphics CenterX="298.3506574986983" CenterY="1354.7772369365298" Width="260.543405515312" Height="72.80059733433927" ZOrder="32786" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE385: Decreased synaptogenesis  " GraphId="ba60c">
+    <Graphics CenterX="849.6351942749166" CenterY="1153.3742114149813" Width="262.6039022574232" Height="77.78869259146586" ZOrder="32789" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE386: Decreased neuronal network function" GraphId="c37b0">
+    <Graphics CenterX="849.1792575741354" CenterY="1359.3712825466807" Width="262.6039022574232" Height="77.78869259146586" ZOrder="32790" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="CaMKK2 signaling pathway" GraphId="d51a0" Type="Pathway">
+    <Graphics CenterX="849.7954166193847" CenterY="1207.171620875673" Width="188.84454091089032" Height="32.03617711853914" ZOrder="32791" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE341: Learning and memory impairment " GraphId="de04f">
+    <Graphics CenterX="296.776699870369" CenterY="1551.6463436241327" Width="260.543405515312" Height="72.80059733433927" ZOrder="32794" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE42: Decreased cognitive function " GraphId="ed591">
+    <Graphics CenterX="1031.1612092468088" CenterY="1570.9028539531557" Width="262.6039022574232" Height="77.78869259146586" ZOrder="32795" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="KE319: loss of cochlear function" GraphId="f1640">
+    <Graphics CenterX="691.5737092319278" CenterY="1575.4380013454463" Width="262.6039022574232" Height="77.78869259146586" ZOrder="32797" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="190.4236108481768" Y="107.23422959350387" GraphRef="d3522" RelX="-1.0" RelY="0.0" />
+      <Point X="144.61338661913976" Y="236.72308129908026" GraphRef="a0516" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="201.2059599959398" Y="389.075836802382" GraphRef="fb9ed" RelX="-1.0" RelY="0.0" />
+      <Point X="144.61338661913976" Y="291.0055634461679" GraphRef="a0516" RelX="0.0" RelY="1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="599.699042349194" Y="103.4075361677241" GraphRef="d6ef6" RelX="-1.0" RelY="0.0" />
+      <Point X="269.4017661500561" Y="263.8643223726241" GraphRef="a0516" RelX="1.0" RelY="0.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id1c1d4102">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="552.4097624124272" Y="595.9183673469388" GraphRef="a6f6c" RelX="0.0" RelY="1.0" />
+      <Point X="844.9223096843218" Y="715.197276301168" GraphRef="d9cb2" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id3f967190">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="302.25175920240133" Y="778.3320895522363" GraphRef="d8835" RelX="0.0" RelY="1.0" />
+      <Point X="300.3604205738605" Y="893.9828694850283" GraphRef="aa763" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id3fe54d3d">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="742.653783947326" Y="140.18119339180785" GraphRef="d6ef6" RelX="0.0" RelY="1.0" />
+      <Point X="348.67554235624664" Y="357.28999560022885" GraphRef="fb9ed" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id514b23dc">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="615.4159119019153" Y="403.0389945624638" GraphRef="d5688" RelX="-1.0" RelY="0.5" />
+      <Point X="496.1451247165535" Y="404.9687574034586" GraphRef="fb9ed" RelX="1.0" RelY="0.5" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id68279131">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="552.4097624124272" Y="595.9183673469388" GraphRef="a6f6c" RelX="0.0" RelY="1.0" />
+      <Point X="302.25175920240133" Y="720.475699732626" GraphRef="d8835" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id6fa65935">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="844.9223096843218" Y="759.6715884140741" GraphRef="d9cb2" RelX="0.0" RelY="1.0" />
+      <Point X="846.5196704538032" Y="895.0899212715922" GraphRef="e7756" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id724f5d77">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="348.8701113389202" Y="142.7813663586577" GraphRef="d3522" RelX="0.0" RelY="1.0" />
+      <Point X="348.67554235624664" Y="357.28999560022885" GraphRef="fb9ed" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7637c70f">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="849.1792575741354" Y="1398.2656288424137" GraphRef="c37b0" RelX="0.0" RelY="1.0" />
+      <Point X="1031.1612092468088" Y="1532.0085076574228" GraphRef="ed591" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id85dfc48d">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="300.3604205738605" Y="971.1262173714507" GraphRef="aa763" RelX="0.0" RelY="1.0" />
+      <Point X="300.7868204336884" Y="1118.1261110117548" GraphRef="a9e02" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id8830347b">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="849.6351942749166" Y="1192.2685577107143" GraphRef="ba60c" RelX="0.0" RelY="1.0" />
+      <Point X="849.1792575741354" Y="1320.4769362509478" GraphRef="c37b0" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id927f24cc">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="348.67554235624664" Y="420.8616780045352" GraphRef="fb9ed" RelX="0.0" RelY="1.0" />
+      <Point X="552.4097624124272" Y="536.9721968389345" GraphRef="a6f6c" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ida95fc0ea">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="849.1792575741354" Y="1398.2656288424137" GraphRef="c37b0" RelX="0.0" RelY="1.0" />
+      <Point X="691.5737092319278" Y="1536.5436550497134" GraphRef="f1640" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idc337b09d">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="496.1451247165535" Y="373.18291620130543" GraphRef="fb9ed" RelX="1.0" RelY="-0.5" />
+      <Point X="615.4159119019153" Y="371.41480259712034" GraphRef="d5688" RelX="-1.0" RelY="-0.5" ArrowHead="mim-modification" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idc9b62ab6">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="744.4199986112259" Y="418.8510905451356" GraphRef="d5688" RelX="0.0" RelY="1.0" />
+      <Point X="552.4097624124272" Y="536.9721968389345" GraphRef="a6f6c" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd8604906">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="850.6042882245376" Y="1010.8591105424063" GraphRef="bdde9" RelX="0.0" RelY="1.0" />
+      <Point X="849.6351942749166" Y="1114.4798651192484" GraphRef="ba60c" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idee92d62b">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="300.7868204336884" Y="1195.2694588981772" GraphRef="a9e02" RelX="0.0" RelY="1.0" />
+      <Point X="298.3506574986983" Y="1318.3769382693602" GraphRef="ce549" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idefbaf670">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="298.3506574986983" Y="1391.1775356036994" GraphRef="ce549" RelX="0.0" RelY="1.0" />
+      <Point X="296.776699870369" Y="1515.246044956963" GraphRef="de04f" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idff99775b">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="742.653783947326" Y="140.18119339180785" GraphRef="d6ef6" RelX="0.0" RelY="1.0" />
+      <Point X="744.4199986112259" Y="355.60270661444855" GraphRef="d5688" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax />
+</Pathway>

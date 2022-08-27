@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Mesothelial cell interaction leading to malignant pleural mesothelioma" Version="20210430" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">Adverse Outcome Pathway for malignant pleural mesothelioma, known to be initiated by asbestos. Hypothetical sequence of events, which are planned for development in the AOP-Wiki, hence the lacking Key Event IDs. </Comment>
+  <Graphics BoardWidth="661.0" BoardHeight="957.0" />
+  <DataNode TextLabel="DNA damage response " GraphId="badca" Type="Pathway">
+    <Graphics CenterX="207.64370519414933" CenterY="590.2366007901396" Width="159.0" Height="35.52679841972076" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP707" />
+  </DataNode>
+  <DataNode TextLabel="Increased secretion of proinflammatory mediators" GraphId="bd023" Type="Key Event">
+    <Graphics CenterX="207.64370519414933" CenterY="265.75" Width="288.71337890625" Height="40.5" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1496" />
+  </DataNode>
+  <DataNode TextLabel="DNA repair pathways" GraphId="da5e4" Type="Pathway">
+    <Graphics CenterX="207.64370519414933" CenterY="554.1138105832614" Width="162.0" Height="34.5" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP4946" />
+  </DataNode>
+  <DataNode TextLabel="Overview of proinflammatory &#xA;and profibrotic mediators" GraphId="db430" Type="Pathway">
+    <Graphics CenterX="389.3284538933144" CenterY="203.10055182453115" Width="208.0" Height="46.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP5095" />
+  </DataNode>
+  <DataNode TextLabel="Cell cycle checkpoints " GraphId="e19c3" Type="Pathway">
+    <Graphics CenterX="207.64370519414933" CenterY="815.3475117996155" Width="168.0" Height="32.5" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP1775" />
+  </DataNode>
+  <DataNode TextLabel="Frustrated phagocytosis" GraphId="e4d43" Type="Key Event">
+    <Graphics CenterX="207.64370519414933" CenterY="60.35844387298428" Width="210.38461538461684" Height="27.118005012173057" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1668" />
+  </DataNode>
+  <DataNode TextLabel="Increased reactive oxygen species" GraphId="e6d5c" Type="Key Event">
+    <Graphics CenterX="207.64370519414933" CenterY="362.91993663127363" Width="234.6189750000001" Height="35.2588769632932" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1115" />
+  </DataNode>
+  <DataNode TextLabel="Oxidative damage response " GraphId="f0093" Type="Pathway">
+    <Graphics CenterX="207.64370519414933" CenterY="395.98066119143846" Width="189.0" Height="29.5" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP3941" />
+  </DataNode>
+  <DataNode TextLabel="NRF2 pathway" GraphId="ff0ad" Type="Pathway">
+    <Graphics CenterX="206.5" CenterY="428.25" Width="111.0" Height="33.5" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP2884" />
+  </DataNode>
+  <DataNode TextLabel="Increased recruitment of inflammatory cells " GraphId="ea09b" Type="Key Event">
+    <Graphics CenterX="207.64370519414933" CenterY="148.00909621545884" Width="280.2261994190716" Height="39.93589743589905" ZOrder="32771" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1497" />
+  </DataNode>
+  <DataNode TextLabel="Genomic instability" GraphId="e9f1c" Type="Key Event">
+    <Graphics CenterX="207.64370519414933" CenterY="677.6180140976397" Width="131.74014683807178" Height="31.527947509469296" ZOrder="32777" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1896" />
+  </DataNode>
+  <DataNode TextLabel="Mesothelial cell proliferation" GraphId="a6b44" Type="Key Event">
+    <Graphics CenterX="207.6437051941494" CenterY="755.5256315626981" Width="188.2508357485226" Height="28.421494887413758" ZOrder="32778" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="870" />
+  </DataNode>
+  <DataNode TextLabel="Mesothelioma" GraphId="ace2c" Type="Key Event">
+    <Graphics CenterX="209.64370519414933" CenterY="886.1680618832734" Width="108.26030094495546" Height="25.0" ZOrder="32779" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1090" />
+  </DataNode>
+  <DataNode TextLabel="Increased DNA damage and mutation" GraphId="a1070" Type="Key Event">
+    <Graphics CenterX="207.64370519414933" CenterY="518.7960876274129" Width="242.54496380812293" Height="33.34146772915493" ZOrder="32783" FontSize="12" Valign="Middle" />
+    <Xref Database="AOP-Wiki KE" ID="1669" />
+  </DataNode>
+  <DataNode TextLabel="Cell Cycle" GraphId="d9c97" Type="Pathway">
+    <Graphics CenterX="207.64370519414933" CenterY="784.0387416701469" Width="77.95257769524915" Height="29.922516659706133" ZOrder="32787" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP179" />
+  </DataNode>
+  <DataNode TextLabel="Malignant Pleural Mesothelioma" GraphId="ee242" Type="Pathway">
+    <Graphics CenterX="209.64370519414933" CenterY="912.8340309416367" Width="240.05266144734276" Height="28.331938116726633" ZOrder="32788" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP5087" />
+  </DataNode>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="380.5493751129202" GraphRef="e6d5c" RelX="0.0" RelY="1.0" />
+      <Point X="206.5" Y="411.5" GraphRef="ff0ad" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id20c5ad2a">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="286.0" GraphRef="bd023" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="345.29049814962696" GraphRef="e6d5c" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id46d57cdd">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="693.3819878523746" GraphRef="e9f1c" RelX="0.0" RelY="1.0" />
+      <Point X="207.6437051941494" Y="741.3148841189914" GraphRef="a6b44" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id4a5e94cc">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="73.91744637907081" GraphRef="e4d43" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="128.04114749750931" GraphRef="ea09b" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id65987fe0">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="535.4668214919905" />
+      <Point X="207.64370519414933" Y="661.8540403429051" GraphRef="e9f1c" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id801c833f">
+    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
+      <Point X="352.00039464727433" Y="265.75" GraphRef="bd023" RelX="1.0" RelY="0.0" />
+      <Point X="389.3284538933144" Y="226.10055182453115" GraphRef="db430" RelX="0.0" RelY="1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id88726a4e">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="535.4668214919903" GraphRef="a1070" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="536.8638105832614" GraphRef="da5e4" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id9ca1710f">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="535.4668214919903" GraphRef="a1070" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="572.4732015802792" GraphRef="badca" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id9d891879">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="208.64370381238064" Y="577.6884072679691" />
+      <Point X="206.64370381238064" Y="577.6884072679692" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idb5fc7851">
+    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
+      <Point X="347.7568049036851" Y="148.00909621545884" GraphRef="ea09b" RelX="1.0" RelY="0.0" />
+      <Point X="389.3284538933144" Y="180.10055182453115" GraphRef="db430" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idbc2c67c3">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="380.5493751129202" GraphRef="e6d5c" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="381.23066119143846" GraphRef="f0093" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idc9c6419b">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="380.5493751129202" GraphRef="e6d5c" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="502.1253537628355" GraphRef="a1070" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd3555bde">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.6437051941494" Y="769.7363790064051" GraphRef="a6b44" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="799.0975117996155" GraphRef="e19c3" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd647b9e5">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="209.64370519414933" Y="898.6680618832734" GraphRef="ace2c" RelX="0.0" RelY="1.0" />
+      <Point X="209.64370519414933" Y="898.6680618832734" GraphRef="ee242" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd752e958">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.6437051941494" Y="769.7363790064051" GraphRef="a6b44" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="769.0774833402938" GraphRef="d9c97" RelX="0.0" RelY="-1.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ideb015692">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="207.6437051941494" Y="769.7363790064051" GraphRef="a6b44" RelX="0.0" RelY="1.0" />
+      <Point X="209.64370519414933" Y="873.6680618832734" GraphRef="ace2c" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="f97a3">
+    <Graphics ZOrder="32780" LineThickness="1.0">
+      <Point X="207.64370519414933" Y="167.97704493340837" GraphRef="ea09b" RelX="0.0" RelY="1.0" />
+      <Point X="207.64370519414933" Y="245.5" GraphRef="bd023" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">malignant pleural mesothelioma</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:7474</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mesothelial cell</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000077</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
+    </bp:openControlledVocabulary>
+  </Biopax>
+</Pathway>
